@@ -1,3 +1,8 @@
+Project Description:
+Attempting to create a script that will continually sample the average/dominant (to be be decided) colour along the edges of my screen through screen capture.
+Once complete, the idea is that I can then push this data to a raspberry pie, connected to four (4) seperate LED strips. A future script will match the certain areas of the screen to certain sections of LEDs and then display the respective average/dominant colour. These LED strips can be attached to the edge of my screen for a fantastic ambient colour experience.
+
+Current State:
 
 Further attempts to optimize the intial version of my screen sampler.
 
